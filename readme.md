@@ -17,10 +17,9 @@ This package is created to handle server-side works of [DataTables](http://datat
 ### Step 1: Get the code
 - Option 1: Git Clone
 ```shell
-git clone https://github.com/yajra/laravel-datatables-demo.git laravel
+git clone https://github.com/JDamour/laravel-db.git laravel-db
 ```
-- Option 2: Download the repository [https://github.com/yajra/laravel-datatables-demo/archive/master.zip](https://github.com/yajra/laravel-datatables-demo/archive/master.zip)
-
+ 
 ### Step 2: Use Composer to install dependencies
 - cd /path/to/laravel
 - composer install
